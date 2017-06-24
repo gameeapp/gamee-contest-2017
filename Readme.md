@@ -23,12 +23,13 @@ First, clone this repository.
 Then use configured dev tools. Open terminal and use
 
 ```
+npm install
 npm run dev
 ```
 
-to run the project and automatic builds. The game will be published on your ```http://localhost:3000```.
+to install external modules and run the project and automatic builds. The game will be published on your ```http://localhost:3000```.
 Pass this link to our [public emulator](http://emulator.gameeapp.com/).
 
-Then search our github page to understand how to fix the implementation. 
+Then search our [github wiki](https://github.com/gameeapp/gamee-js/wiki) to understand how to fix the implementation. 
 
 Good luck!
