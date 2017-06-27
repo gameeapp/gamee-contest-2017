@@ -7,7 +7,10 @@
 From all contestants, who will be able to reach the goal, we will draw one winner who wins a Tesla Model S for a one day!
 
 For the first 50 fastest we prepared special GAMEE loot crate. Let's go!
- 
+
+### Shipping
+Contest is open worldwide, but prizes will be only shipped within Czech Republic or Slovakia. First prize: rented Tesla for a day can be picked up only in Prague.
+
 ## The goal
  
 In this repository there is one of our games, Spinner Winner. 
