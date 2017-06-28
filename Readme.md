@@ -31,6 +31,10 @@ Then use configured dev tools. Open terminal and use
 npm install
 npm run dev
 
+// or
+
+npm run devOSX
+
 // or alternatively
 
 npm run watch
