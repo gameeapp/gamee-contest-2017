@@ -30,7 +30,13 @@ Then use configured dev tools. Open terminal and use
 ```
 npm install
 npm run dev
+
+// or alternatively
+
+npm run watch
+npm run server
 ```
+
 
 to install external modules and run the project and automatic builds. The game will be published on your ```http://localhost:3000```.
 Pass this link to our [public emulator](http://emulator.gameeapp.com/).
