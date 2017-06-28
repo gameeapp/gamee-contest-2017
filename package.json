@@ -8,7 +8,8 @@
     "b:dist": "webpack --env=prod --config config/webpack.config.js --progress --profile --colors",
     "watch": "webpack --env=dev --config config/webpack.config.js --progress --profile --colors --watch",
     "server": "node ./run-server.js",
-    "dev": "start npm run watch && start npm run server"
+    "dev": "start npm run watch && start npm run server",
+    "devOSX": "npm run watch & npm run server"
   },
   "repository": {
     "type": "git",
